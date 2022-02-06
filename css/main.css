@@ -1,0 +1,48 @@
+body {
+    background-color: #340752af;
+}
+
+.CalcuFrame {
+    background-color: whitesmoke;
+    width: 20rem;
+    height: 30rem;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 5%;
+    display: block;
+    margin-top: 10rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Regular-Btn {
+    padding: 1rem;
+    margin: 0.5rem;
+}
+
+.Reset-Btn {
+    padding: 1rem;
+    margin: 0.5rem;
+    font-size: 2rem; 
+}
+
+.Equal-Btn {
+    padding: 1rem 2rem;
+    margin: 0.5rem;
+    font-size: 2rem; 
+}
+
+.DEL-Btn {
+    padding: 1rem 0.75rem;
+    margin: 0.2rem;
+}
+
+input {
+    padding-top: 2rem;
+    margin-top: 1.8rem;
+    width: 18rem;
+    height: 1.8rem;
+    border-radius: 5%;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
